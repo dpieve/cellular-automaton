@@ -19,8 +19,10 @@ Notice how the grid becomes more uniform with time.
 After many iterations, the grid will be filled with a single color.
 
 <p align="center">
-<img src="assets/showcase.gif" width="800">
+<img src="assets/showcase.gif" width="800" alt="Loading gif...">
 </p>
+
+(In case you don't see the gif, wait a moment while it loads).
 
 ## 🛠️ Build and Run Instructions
 
