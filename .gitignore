@@ -1,3 +1,9 @@
+/out
+bin/
+build/
+/.vs
+CMakeSettings.json
+
 # Prerequisites
 *.d
 
